@@ -10,7 +10,7 @@ Features:
 
 
 
-HOW SET UP :                                                 
+# ☣ HOW SET UP ☣                                                 
 1.Open the File Token-Grabber-Kio.py with the Editor                                                      
 2.Paste the Webhook you created to ´´WEBHOOK HERE``                                                  
 3.Save the file                                                                        
